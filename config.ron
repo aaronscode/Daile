@@ -1,0 +1,22 @@
+DaileConfig(
+    /*
+    screen_width: 60,
+    screen_height: 60,
+    */
+
+    canvas_width: 60,
+    canvas_height: 60,
+    
+    /*
+    // # of glyphs per row/column, not # of pixes per glyph
+    font_horizontal: 32,
+    font_vertical: 16,
+    font_path: "res/images/CodePageExtended.png",
+    */
+
+    // # of glyphs per row/column, not # of pixes per glyph
+    font_horizontal: 16,
+    font_vertical: 20,
+    font_path: "res/images/terminal16x16_gs_ro_extended.png",
+
+)
